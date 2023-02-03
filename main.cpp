@@ -16,5 +16,5 @@ void setColor(int _colorcode){
 }
 
 int main(){
-	cout << "Hello";
+	cout << "Hello"<<endl;
 }
